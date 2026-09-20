@@ -5,3 +5,6 @@ logs/
 *.log
 .env
 .DS_Store
+screenshots/
+app_backup.py
+gesture_settings.json
