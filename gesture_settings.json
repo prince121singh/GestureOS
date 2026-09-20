@@ -1,0 +1,27 @@
+{
+    "profile": "Custom",
+    "sensitivity": 60,
+    "performance_mode": "Balanced",
+    "enabled_gestures": {
+        "Point": true,
+        "Pinch": true,
+        "Peace": true,
+        "Thumb Up": true,
+        "Thumb Down": true,
+        "Fist": true,
+        "Open Palm": true,
+        "Three Fingers": true,
+        "Rock Sign": true
+    },
+    "gesture_mappings": {
+        "Point": "Cursor",
+        "Pinch": "Click",
+        "Peace": "Scroll",
+        "Thumb Up": "Volume Up",
+        "Thumb Down": "Volume Down",
+        "Fist": "Screenshot",
+        "Open Palm": "Pause",
+        "Three Fingers": "No Action",
+        "Rock Sign": "No Action"
+    }
+}

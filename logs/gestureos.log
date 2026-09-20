@@ -1,0 +1,1947 @@
+12:37:37  INFO     Starting camera engine...
+12:37:39  INFO     Camera engine started.
+12:39:40  INFO     Starting camera engine...
+12:39:41  ERROR    Camera start failed.
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 296, in start
+    self.engine.start()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\rajpu\Music\GestureOS\core\camera_engine.py", line 130, in start
+    self.tracker = HandTracker(
+                   ~~~~~~~~~~~^
+        max_hands=1,
+        ^^^^^^^^^^^^
+        detection_confidence=0.5,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+        tracking_confidence=0.5,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: HandTracker.__init__() got an unexpected keyword argument 'max_hands'. Did you mean 'num_hands'?
+12:39:41  ERROR    GestureOS Error: HandTracker.__init__() got an unexpected keyword argument 'max_hands'. Did you mean 'num_hands'?
+12:39:45  INFO     Starting camera engine...
+12:39:45  ERROR    Camera start failed.
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 296, in start
+    self.engine.start()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\rajpu\Music\GestureOS\core\camera_engine.py", line 130, in start
+    self.tracker = HandTracker(
+                   ~~~~~~~~~~~^
+        max_hands=1,
+        ^^^^^^^^^^^^
+        detection_confidence=0.5,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+        tracking_confidence=0.5,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: HandTracker.__init__() got an unexpected keyword argument 'max_hands'. Did you mean 'num_hands'?
+12:39:45  ERROR    GestureOS Error: HandTracker.__init__() got an unexpected keyword argument 'max_hands'. Did you mean 'num_hands'?
+12:41:27  INFO     Starting camera engine...
+12:41:27  INFO     Starting camera engine...
+12:41:29  INFO     Camera engine started successfully.
+12:41:29  INFO     Camera engine started.
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:29  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:29  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:30  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:30  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:31  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:31  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:32  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:32  INFO     Attempting camera auto-reconnect...
+12:41:32  INFO     Stopping camera engine...
+12:41:33  INFO     Camera engine stopped.
+12:41:33  INFO     Starting camera engine...
+12:41:34  INFO     Camera engine started successfully.
+12:41:34  INFO     Camera auto-reconnect succeeded.
+12:41:34  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:34  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+12:41:34  ERROR    GestureOS Error: 'CameraEngine' object has no attribute 'read'
+12:41:34  INFO     Stopping camera engine...
+12:41:35  INFO     Camera engine stopped.
+13:08:42  INFO     Starting camera engine...
+13:08:44  INFO     Camera engine started successfully.
+13:08:44  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:44  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:44  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:44  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:44  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:45  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:46  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:47  INFO     Attempting camera auto-reconnect...
+13:08:47  INFO     Stopping camera engine...
+13:08:48  INFO     Camera engine stopped.
+13:08:48  INFO     Starting camera engine...
+13:08:50  INFO     Camera engine started successfully.
+13:08:50  INFO     Camera auto-reconnect succeeded.
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:50  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:51  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:52  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:53  INFO     Attempting camera auto-reconnect...
+13:08:53  INFO     Stopping camera engine...
+13:08:53  INFO     Camera engine stopped.
+13:08:53  INFO     Starting camera engine...
+13:08:55  INFO     Camera engine started successfully.
+13:08:55  INFO     Camera auto-reconnect succeeded.
+13:08:55  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:55  INFO     Stopping camera engine...
+13:08:55  INFO     Camera engine stopped.
+13:08:56  INFO     Starting camera engine...
+13:08:57  INFO     Camera engine started successfully.
+13:08:57  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:57  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  WARNING  Frame processing error: 'CameraEngine' object has no attribute 'read'
+13:08:58  INFO     Stopping camera engine...
+13:08:58  INFO     Camera engine stopped.
+13:13:17  INFO     Starting camera engine...
+13:13:19  INFO     Camera engine started successfully.
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:21  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:22  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:23  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:24  INFO     Stopping camera engine...
+13:13:25  INFO     Camera engine stopped.
+13:13:26  INFO     Starting camera engine...
+13:13:28  INFO     Camera engine started successfully.
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:33  INFO     Attempting camera auto-reconnect...
+13:13:33  INFO     Stopping camera engine...
+13:13:34  INFO     Camera engine stopped.
+13:13:34  INFO     Starting camera engine...
+13:13:35  INFO     Camera engine started successfully.
+13:13:35  INFO     Camera auto-reconnect succeeded.
+13:13:37  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:13:37  INFO     Stopping camera engine...
+13:13:38  INFO     Camera engine stopped.
+13:15:58  INFO     Starting camera engine...
+13:16:00  INFO     Camera engine started successfully.
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:01  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:02  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:03  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:04  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:04  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:04  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:04  INFO     Attempting camera auto-reconnect...
+13:16:04  INFO     Stopping camera engine...
+13:16:05  INFO     Camera engine stopped.
+13:16:05  INFO     Starting camera engine...
+13:16:06  INFO     Camera engine started successfully.
+13:16:06  INFO     Camera auto-reconnect succeeded.
+13:16:06  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:06  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:06  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:07  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:08  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:09  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:29  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:30  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:31  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:32  INFO     Attempting camera auto-reconnect...
+13:16:32  INFO     Stopping camera engine...
+13:16:33  INFO     Camera engine stopped.
+13:16:33  INFO     Starting camera engine...
+13:16:34  INFO     Camera engine started successfully.
+13:16:34  INFO     Camera auto-reconnect succeeded.
+13:16:35  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:39  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:40  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:40  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:40  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:40  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:41  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:42  WARNING  Frame processing error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:16:44  INFO     Stopping camera engine...
+13:16:45  INFO     Camera engine stopped.
+13:20:27  INFO     Starting GestureOS camera worker...
+13:20:27  INFO     Starting camera engine...
+13:20:28  INFO     Camera engine started successfully.
+13:20:28  INFO     GestureOS camera worker started.
+13:20:32  ERROR    Frame processing error
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 282, in process_frame
+    if self.controller.move_cursor(
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        x,
+        ^^
+    ...<2 lines>...
+        frame.shape[0],
+        ^^^^^^^^^^^^^^^
+    ):
+    ^
+TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:20:32  ERROR    GestureOS camera/AI error: TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:20:32  INFO     Stopping camera engine...
+13:20:33  INFO     Camera engine stopped.
+13:20:33  INFO     GestureOS camera worker stopped.
+13:20:35  INFO     Starting GestureOS camera worker...
+13:20:35  INFO     Starting camera engine...
+13:20:36  INFO     Camera engine started successfully.
+13:20:36  INFO     GestureOS camera worker started.
+13:20:39  ERROR    Frame processing error
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 282, in process_frame
+    if self.controller.move_cursor(
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        x,
+        ^^
+    ...<2 lines>...
+        frame.shape[0],
+        ^^^^^^^^^^^^^^^
+    ):
+    ^
+TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:20:39  ERROR    GestureOS camera/AI error: TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:20:42  INFO     Stopping camera engine...
+13:20:42  INFO     Camera engine stopped.
+13:20:42  INFO     GestureOS camera worker stopped.
+13:20:45  INFO     Starting GestureOS camera worker...
+13:20:45  INFO     Starting camera engine...
+13:20:46  INFO     Camera engine started successfully.
+13:20:46  INFO     GestureOS camera worker started.
+13:20:47  ERROR    Frame processing error
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 282, in process_frame
+    if self.controller.move_cursor(
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        x,
+        ^^
+    ...<2 lines>...
+        frame.shape[0],
+        ^^^^^^^^^^^^^^^
+    ):
+    ^
+TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:20:47  ERROR    GestureOS camera/AI error: TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:21:20  INFO     Stopping camera engine...
+13:21:20  INFO     Camera engine stopped.
+13:21:20  INFO     GestureOS camera worker stopped.
+13:22:20  INFO     Starting camera engine...
+13:22:22  INFO     Camera engine started successfully.
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:23  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:24  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:25  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:26  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:27  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:29  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:30  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:31  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:31  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:31  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:31  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:32  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:36  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:37  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:38  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:39  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:40  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:41  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:42  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:43  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:44  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:45  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:46  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:47  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:47  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:22:50  WARNING  Cursor move error: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:23:02  INFO     Calibration skipped: engine has no gesture_engine/calibration_manager.
+13:23:05  INFO     Calibration skipped: engine has no gesture_engine/calibration_manager.
+13:23:54  INFO     Starting GestureOS camera worker...
+13:23:54  INFO     Starting camera engine...
+13:23:56  INFO     Camera engine started successfully.
+13:23:56  INFO     GestureOS camera worker started.
+13:24:14  INFO     Stopping camera engine...
+13:24:15  INFO     Camera engine stopped.
+13:24:15  INFO     GestureOS camera worker stopped.
+13:24:17  INFO     Starting GestureOS camera worker...
+13:24:17  INFO     Starting camera engine...
+13:24:18  INFO     Camera engine started successfully.
+13:24:18  INFO     GestureOS camera worker started.
+13:24:18  ERROR    GestureOS camera/AI error: Calibration error: Calibration services are not initialized. Restart the controller first.
+13:24:22  INFO     Stopping camera engine...
+13:24:23  INFO     Camera engine stopped.
+13:24:23  INFO     GestureOS camera worker stopped.
+13:31:24  INFO     Starting GestureOS camera worker...
+13:31:24  INFO     Starting camera engine...
+13:31:25  INFO     Camera engine started successfully.
+13:31:25  INFO     GestureOS camera worker started.
+13:40:11  INFO     Starting GestureOS camera worker...
+13:40:11  INFO     Starting camera engine...
+13:40:13  INFO     Camera engine started successfully.
+13:40:13  INFO     GestureOS camera worker started.
+13:40:30  INFO     Stopping camera engine...
+13:40:31  INFO     Camera engine stopped.
+13:40:31  INFO     GestureOS camera worker stopped.
+13:44:06  INFO     Starting GestureOS camera worker...
+13:44:06  INFO     Starting camera engine...
+13:44:07  INFO     Camera engine started successfully.
+13:44:07  INFO     GestureOS camera worker started.
+13:44:08  INFO     Stopping camera engine...
+13:44:09  INFO     Camera engine stopped.
+13:44:09  INFO     GestureOS camera worker stopped.
+13:44:10  INFO     Starting GestureOS camera worker...
+13:44:10  INFO     Starting camera engine...
+13:44:11  INFO     Camera engine started successfully.
+13:44:11  INFO     GestureOS camera worker started.
+13:44:12  ERROR    Frame processing error
+Traceback (most recent call last):
+  File "C:\Users\rajpu\Music\GestureOS\app.py", line 282, in process_frame
+    if self.controller.move_cursor(
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        x,
+        ^^
+    ...<2 lines>...
+        frame.shape[0],
+        ^^^^^^^^^^^^^^^
+    ):
+    ^
+TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:44:12  ERROR    GestureOS camera/AI error: TypeError: GestureController.move_cursor() takes 3 positional arguments but 5 were given
+13:44:18  INFO     Stopping camera engine...
+13:44:18  INFO     Camera engine stopped.
+13:44:18  INFO     GestureOS camera worker stopped.
+13:51:53  INFO     Starting GestureOS camera worker...
+13:51:53  INFO     Starting camera engine...
+13:51:55  INFO     Camera engine started successfully.
+13:51:55  INFO     GestureOS camera worker started.
+13:51:56  INFO     Stopping camera engine...
+13:51:57  INFO     Camera engine stopped.
+13:51:57  INFO     GestureOS camera worker stopped.
+13:51:58  INFO     Starting GestureOS camera worker...
+13:51:58  INFO     Starting camera engine...
+13:52:00  INFO     Camera engine started successfully.
+13:52:00  INFO     GestureOS camera worker started.
+12:05:32  INFO     Starting GestureOS camera worker...
+12:05:32  INFO     Starting camera engine...
+12:05:34  INFO     Camera engine started successfully.
+12:05:34  INFO     GestureOS camera worker started.
